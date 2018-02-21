@@ -1,0 +1,860 @@
+{
+  "words": [
+    {
+      "content": "избирательность",
+      "rating": 2
+    },
+    {
+      "content": "прием",
+      "rating": 1
+    },
+    {
+      "content": "предприимчивость",
+      "rating": 3
+    },
+    {
+      "content": "рассудок",
+      "rating": 1
+    },
+    {
+      "content": "пень",
+      "rating": 0
+    },
+    {
+      "content": "налог",
+      "rating": 1
+    },
+    {
+      "content": "предатель",
+      "rating": 1
+    },
+    {
+      "content": "прицеп",
+      "rating": 1
+    },
+    {
+      "content": "волокно",
+      "rating": 1
+    },
+    {
+      "content": "космолет",
+      "rating": 1
+    },
+    {
+      "content": "гречка",
+      "rating": 0
+    },
+    {
+      "content": "предосудительность",
+      "rating": 3
+    },
+    {
+      "content": "мезозой",
+      "rating": 2
+    },
+    {
+      "content": "крокодил",
+      "rating": 1
+    },
+    {
+      "content": "тиран",
+      "rating": 2
+    },
+    {
+      "content": "искусство",
+      "rating": 1
+    },
+    {
+      "content": "абстракция",
+      "rating": 3
+    },
+    {
+      "content": "прокрастинация",
+      "rating": 3
+    },
+    {
+      "content": "прыть",
+      "rating": 1
+    },
+    {
+      "content": "изверг",
+      "rating": 1
+    },
+    {
+      "content": "кириллица",
+      "rating": 1
+    },
+    {
+      "content": "пора",
+      "rating": 2
+    },
+    {
+      "content": "династия",
+      "rating": 2
+    },
+    {
+      "content": "суперсила",
+      "rating": 1
+    },
+    {
+      "content": "брехня",
+      "rating": 1
+    },
+    {
+      "content": "консистенция",
+      "rating": 1
+    },
+    {
+      "content": "адресат",
+      "rating": 1
+    },
+    {
+      "content": "консилиум",
+      "rating": 2
+    },
+    {
+      "content": "проводник",
+      "rating": 1
+    },
+    {
+      "content": "прадед",
+      "rating": 1
+    },
+    {
+      "content": "обучение",
+      "rating": 1
+    },
+    {
+      "content": "пленение",
+      "rating": 1
+    },
+    {
+      "content": "сговор",
+      "rating": 1
+    },
+    {
+      "content": "фриланс",
+      "rating": 1
+    },
+    {
+      "content": "артефакт",
+      "rating": 1
+    },
+    {
+      "content": "добытчик",
+      "rating": 2
+    },
+    {
+      "content": "маньяк",
+      "rating": 1
+    },
+    {
+      "content": "пример",
+      "rating": 1
+    },
+    {
+      "content": "малахит",
+      "rating": 1
+    },
+    {
+      "content": "конспирация",
+      "rating": 1
+    },
+    {
+      "content": "контингент",
+      "rating": 1
+    },
+    {
+      "content": "ребрендинг",
+      "rating": 1
+    },
+    {
+      "content": "отношение",
+      "rating": 2
+    },
+    {
+      "content": "невидаль",
+      "rating": 3
+    },
+    {
+      "content": "плешь",
+      "rating": 1
+    },
+    {
+      "content": "утопия",
+      "rating": 1
+    },
+    {
+      "content": "пустомеля",
+      "rating": 1
+    },
+    {
+      "content": "отрочество",
+      "rating": 1
+    },
+    {
+      "content": "проказник",
+      "rating": 1
+    },
+    {
+      "content": "категория",
+      "rating": 1
+    },
+    {
+      "content": "вид",
+      "rating": 1
+    },
+    {
+      "content": "неряха",
+      "rating": 1
+    },
+    {
+      "content": "бремя",
+      "rating": 1
+    },
+    {
+      "content": "стыд",
+      "rating": 1
+    },
+    {
+      "content": "обращение",
+      "rating": 1
+    },
+    {
+      "content": "позывной",
+      "rating": 1
+    },
+    {
+      "content": "коллапс",
+      "rating": 1
+    },
+    {
+      "content": "муть",
+      "rating": 1
+    },
+    {
+      "content": "инерция",
+      "rating": 1
+    },
+    {
+      "content": "проказа",
+      "rating": 1
+    },
+    {
+      "content": "эксклюзив",
+      "rating": 1
+    },
+    {
+      "content": "диктатор",
+      "rating": 1
+    },
+    {
+      "content": "меломан",
+      "rating": 1
+    },
+    {
+      "content": "игротека",
+      "rating": 1
+    },
+    {
+      "content": "целесообразность",
+      "rating": 1
+    },
+    {
+      "content": "воротила",
+      "rating": 1
+    },
+    {
+      "content": "казус",
+      "rating": 1
+    },
+    {
+      "content": "намёк",
+      "rating": 1
+    },
+    {
+      "content": "восхождение",
+      "rating": 1
+    },
+    {
+      "content": "новаторство",
+      "rating": 1
+    },
+    {
+      "content": "материк",
+      "rating": 1
+    },
+    {
+      "content": "катаклизм",
+      "rating": 1
+    },
+    {
+      "content": "энциклопедия",
+      "rating": 1
+    },
+    {
+      "content": "доблесть",
+      "rating": 1
+    },
+    {
+      "content": "ассоциация",
+      "rating": 1
+    },
+    {
+      "content": "организация",
+      "rating": 1
+    },
+    {
+      "content": "выдумка",
+      "rating": 1
+    },
+    {
+      "content": "пустозвон",
+      "rating": 1
+    },
+    {
+      "content": "юриспруденция",
+      "rating": 1
+    },
+    {
+      "content": "реформа",
+      "rating": 1
+    },
+    {
+      "content": "порка",
+      "rating": 1
+    },
+    {
+      "content": "куча",
+      "rating": 1
+    },
+    {
+      "content": "контингент",
+      "rating": 1
+    },
+    {
+      "content": "инфраструктура",
+      "rating": 1
+    },
+    {
+      "content": "косяк",
+      "rating": 1
+    },
+    {
+      "content": "кара",
+      "rating": 1
+    },
+    {
+      "content": "каракатица",
+      "rating": 1
+    },
+    {
+      "content": "мангуст",
+      "rating": 1
+    },
+    {
+      "content": "стерильность",
+      "rating": 1
+    },
+    {
+      "content": "амбиции",
+      "rating": 1
+    },
+    {
+      "content": "блиц",
+      "rating": 1
+    },
+    {
+      "content": "сваха",
+      "rating": 1
+    },
+    {
+      "content": "фисташка",
+      "rating": 1
+    },
+    {
+      "content": "антураж",
+      "rating": 1
+    },
+    {
+      "content": "жмот",
+      "rating": 1
+    },
+    {
+      "content": "выемка",
+      "rating": 1
+    },
+    {
+      "content": "шлепок",
+      "rating": 1
+    },
+    {
+      "content": "инкассатор",
+      "rating": 1
+    },
+    {
+      "content": "репертуар",
+      "rating": 1
+    },
+    {
+      "content": "отшельник",
+      "rating": 1
+    },
+    {
+      "content": "гоп-стоп",
+      "rating": 1
+    },
+    {
+      "content": "бельмо",
+      "rating": 1
+    },
+    {
+      "content": "энергия",
+      "rating": 1
+    },
+    {
+      "content": "минимализм",
+      "rating": 1
+    },
+    {
+      "content": "воздействие",
+      "rating": 1
+    },
+    {
+      "content": "покровитель",
+      "rating": 1
+    },
+    {
+      "content": "захват",
+      "rating": 1
+    },
+    {
+      "content": "миролюбие",
+      "rating": 1
+    },
+    {
+      "content": "ресурс",
+      "rating": 1
+    },
+    {
+      "content": "феерия",
+      "rating": 1
+    },
+    {
+      "content": "сутолока",
+      "rating": 1
+    },
+    {
+      "content": "зарево",
+      "rating": 1
+    },
+    {
+      "content": "коронация",
+      "rating": 1
+    },
+    {
+      "content": "ультрафиолет",
+      "rating": 1
+    },
+    {
+      "content": "падчерица",
+      "rating": 1
+    },
+    {
+      "content": "тыколка",
+      "rating": 1
+    },
+    {
+      "content": "хмырь",
+      "rating": 1
+    },
+    {
+      "content": "ширпотреб",
+      "rating": 1
+    },
+    {
+      "content": "тарабарщина",
+      "rating": 1
+    },
+    {
+      "content": "глюкометр",
+      "rating": 1
+    },
+    {
+      "content": "тёзка",
+      "rating": 1
+    },
+    {
+      "content": "поверие",
+      "rating": 1
+    },
+    {
+      "content": "принцип",
+      "rating": 1
+    },
+    {
+      "content": "паж",
+      "rating": 1
+    },
+    {
+      "content": "сруб. обожествление",
+      "rating": 1
+    },
+    {
+      "content": "нестыковка",
+      "rating": 1
+    },
+    {
+      "content": "трапеза",
+      "rating": 1
+    },
+    {
+      "content": "отношение",
+      "rating": 1
+    },
+    {
+      "content": "экстрасенс",
+      "rating": 1
+    },
+    {
+      "content": "анонс",
+      "rating": 1
+    },
+    {
+      "content": "экспромт",
+      "rating": 1
+    },
+    {
+      "content": "концепция",
+      "rating": 1
+    },
+    {
+      "content": "негодование",
+      "rating": 1
+    },
+    {
+      "content": "престиж",
+      "rating": 1
+    },
+    {
+      "content": "шоумен",
+      "rating": 1
+    },
+    {
+      "content": "сумасброд",
+      "rating": 1
+    },
+    {
+      "content": "омут",
+      "rating": 1
+    },
+    {
+      "content": "стресс",
+      "rating": 1
+    },
+    {
+      "content": "астрал",
+      "rating": 1
+    },
+    {
+      "content": "жизнь",
+      "rating": 1
+    },
+    {
+      "content": "бытие",
+      "rating": 1
+    },
+    {
+      "content": "шарм",
+      "rating": 1
+    },
+    {
+      "content": "сопутствие",
+      "rating": 1
+    },
+    {
+      "content": "соотношение",
+      "rating": 1
+    },
+    {
+      "content": "непреступность",
+      "rating": 1
+    },
+    {
+      "content": "страник",
+      "rating": 1
+    },
+    {
+      "content": "пустошь",
+      "rating": 1
+    },
+    {
+      "content": "образ",
+      "rating": 1
+    },
+    {
+      "content": "воображение",
+      "rating": 1
+    },
+    {
+      "content": "сияние",
+      "rating": 1
+    },
+    {
+      "content": "система",
+      "rating": 1
+    },
+    {
+      "content": "стремление",
+      "rating": 1
+    },
+    {
+      "content": "существование",
+      "rating": 1
+    },
+    {
+      "content": "эпос",
+      "rating": 1
+    },
+    {
+      "content": "этнос",
+      "rating": 1
+    },
+    {
+      "content": "аллегория",
+      "rating": 1
+    },
+    {
+      "content": "вакуум",
+      "rating": 1
+    },
+    {
+      "content": "ребес",
+      "rating": 1
+    },
+    {
+      "content": "головоломка",
+      "rating": 1
+    },
+    {
+      "content": "тварь",
+      "rating": 1
+    },
+    {
+      "content": "кварц",
+      "rating": 1
+    },
+    {
+      "content": "абстракция",
+      "rating": 1
+    },
+    {
+      "content": "ностальгия",
+      "rating": 1
+    },
+    {
+      "content": "клаустрофобия",
+      "rating": 1
+    },
+    {
+      "content": "нирвана",
+      "rating": 1
+    },
+    {
+      "content": "загадка",
+      "rating": 1
+    },
+    {
+      "content": "гидросфера",
+      "rating": 1
+    },
+    {
+      "content": "транскрипция",
+      "rating": 1
+    },
+    {
+      "content": "комикс",
+      "rating": 1
+    },
+    {
+      "content": "фон",
+      "rating": 1
+    },
+    {
+      "content": "пенопласт",
+      "rating": 1
+    },
+    {
+      "content": "фиксация",
+      "rating": 1
+    },
+    {
+      "content": "автопилот",
+      "rating": 1
+    },
+    {
+      "content": "климакс",
+      "rating": 1
+    },
+    {
+      "content": "трансвистит",
+      "rating": 1
+    },
+    {
+      "content": "коллекционер",
+      "rating": 1
+    },
+    {
+      "content": "шоппинг",
+      "rating": 1
+    },
+    {
+      "content": "деградация",
+      "rating": 1
+    },
+    {
+      "content": "кафедра",
+      "rating": 1
+    },
+    {
+      "content": "фунт",
+      "rating": 1
+    },
+    {
+      "content": "википедия",
+      "rating": 1
+    },
+    {
+      "content": "пазлы",
+      "rating": 1
+    },
+    {
+      "content": "реконструкция",
+      "rating": 1
+    },
+    {
+      "content": "клеопатра",
+      "rating": 1
+    },
+    {
+      "content": "экстракт",
+      "rating": 1
+    },
+    {
+      "content": "модерн",
+      "rating": 1
+    },
+    {
+      "content": "фреска",
+      "rating": 1
+    },
+    {
+      "content": "архитектура",
+      "rating": 1
+    },
+    {
+      "content": "кинематограф",
+      "rating": 1
+    },
+    {
+      "content": "сольфеджио",
+      "rating": 1
+    },
+    {
+      "content": "мемуары",
+      "rating": 1
+    },
+    {
+      "content": "фламенко",
+      "rating": 1
+    },
+    {
+      "content": "допинг",
+      "rating": 1
+    },
+    {
+      "content": "философия",
+      "rating": 1
+    },
+    {
+      "content": "инвестиция",
+      "rating": 2
+    },
+    {
+      "content": "кощунство",
+      "rating": 3
+    },
+    {
+      "content": "прилагательное",
+      "rating": 3
+    },
+    {
+      "content": "явление",
+      "rating": 2
+    },
+    {
+      "content": "индульгенция",
+      "rating": 2
+    },
+    {
+      "content": "редактор",
+      "rating": 1
+    },
+    {
+      "content": "конденсат",
+      "rating": 1
+    },
+    {
+      "content": "партбилет",
+      "rating": 1
+    },
+    {
+      "content": "параплан",
+      "rating": 0
+    },
+    {
+      "content": "гомеопатия",
+      "rating": 2
+    },
+    {
+      "content": "психоанализ",
+      "rating": 2
+    },
+    {
+      "content": "табурет",
+      "rating": 0
+    },
+    {
+      "content": "скакалка",
+      "rating": 0
+    },
+    {
+      "content": "форс-мажор",
+      "rating": 1
+    },
+    {
+      "content": "пендельтюр",
+      "rating": 3
+    },
+    {
+      "content": "витиеватость",
+      "rating": 3
+    },
+    {
+      "content": "лоббист",
+      "rating": 3
+    },
+    {
+      "content": "постулат",
+      "rating": 2
+    },
+    {
+      "content": "укулеле",
+      "rating": 1
+    },
+    {
+      "content": "сантимент",
+      "rating": 3
+    }
+  ]
+}
